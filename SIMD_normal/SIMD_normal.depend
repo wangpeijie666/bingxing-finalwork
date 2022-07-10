@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657293609 source:d:\bingxing\homework-x86\special\simd_normal\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<stdlib.h>
+

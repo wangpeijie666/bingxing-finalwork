@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1657303661 source:d:\bingxing\homework-x86\special\pthread_pro\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<malloc.h>
+	<pthread.h>
+	<semaphore.h>
+	<ctime>
+	<windows.h>
+

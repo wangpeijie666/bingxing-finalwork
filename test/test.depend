@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657206991 source:d:\bingxing\homework-x86\special\test\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<stdlib.h>
+
